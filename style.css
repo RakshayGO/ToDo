@@ -1,0 +1,16 @@
+footer{
+    height: 8vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+footer p{
+    margin: auto auto;
+}
+body{
+    background-image: url('gradientbg.avif');
+    background-size: cover;
+    background-repeat: repeat-y;
+
+}
